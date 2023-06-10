@@ -1,5 +1,8 @@
 {
-  "name": "hackaton-utils",
+  "name": "@folureen/hackaton-utils",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/folureen"
+  },
   "version": "1.0.0",
   "description": "utils for hackaton",
   "scripts": {
@@ -9,6 +12,7 @@
   "license": "ISC",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
+  "types": "dist/index.d.ts",
   "files": [
     "dist"
   ],
