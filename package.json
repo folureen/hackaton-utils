@@ -3,7 +3,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/folureen"
   },
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "utils for hackaton",
   "scripts": {
     "rollup": "rollup -c",
